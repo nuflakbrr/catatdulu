@@ -1,34 +1,34 @@
-# catatdulu
+# CatatDulu
 
-An Electron application with React and TypeScript
+A Note taking desktop app with out-of-the-box markdown support. Built with Electron and React.
 
-## Recommended IDE Setup
+You can follow along the entire development of this project here 👇
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+[![Preview](https://github.com/gionathas/CatatDulu/assets/16454253/c5072721-8c51-450d-ad74-431c65247715)](https://youtu.be/t8ane4BDyC8?si=QDnKwHR_REREtiSy)
 
 ## Project Setup
 
 ### Install
 
 ```bash
-$ npm install
+$ yarn
 ```
 
 ### Development
 
 ```bash
-$ npm run dev
+$ yarn dev
 ```
 
 ### Build
 
 ```bash
 # For windows
-$ npm run build:win
+$ yarn build:win
 
 # For macOS
-$ npm run build:mac
+$ yarn build:mac
 
 # For Linux
-$ npm run build:linux
+$ yarn build:linux
 ```
