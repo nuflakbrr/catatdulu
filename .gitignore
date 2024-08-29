@@ -2,6 +2,9 @@
 /dist
 /build
 /out
+/win
+/linux
+/mac
 *.log*
 package-lock.json
 yarn.lock
