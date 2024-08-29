@@ -7,7 +7,7 @@ A Note taking desktop app with out-of-the-box markdown support. Built with Elect
 ### Install
 
 ```bash
-$ npm
+$ npm install
 ```
 
 ### Development
